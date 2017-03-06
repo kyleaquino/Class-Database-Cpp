@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1468971362 source:/home/kyle/Documents/Class Record Database Project - Kyle Aquino/src/ClassDatabase.cpp
+	"ClassDatabase.h"
+
+1469189107 /home/kyle/Documents/Class Record Database Project - Kyle Aquino/include/ClassDatabase.h
+	<iostream>
+
+1468971326 source:/home/kyle/Documents/Class Record Database Project - Kyle Aquino/src/MenuComponents.cpp
+	"MenuComponents.h"
+
+1469059063 /home/kyle/Documents/Class Record Database Project - Kyle Aquino/include/MenuComponents.h
+	<iostream>
+
+1469191019 source:/home/kyle/Documents/Class Record Database Project - Kyle Aquino/main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<MenuComponents.h>
+	<ClassDatabase.h>
+
+1468971362 source:/home/kyle/Dropbox/Computer Science/2nd Year/1st Sem/DATA STRUCTURES/Class Record Database Project - Kyle Aquino/src/ClassDatabase.cpp
+	"ClassDatabase.h"
+
+1469417710 /home/kyle/Dropbox/Computer Science/2nd Year/1st Sem/DATA STRUCTURES/Class Record Database Project - Kyle Aquino/include/ClassDatabase.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1468971326 source:/home/kyle/Dropbox/Computer Science/2nd Year/1st Sem/DATA STRUCTURES/Class Record Database Project - Kyle Aquino/src/MenuComponents.cpp
+	"MenuComponents.h"
+
+1469401190 /home/kyle/Dropbox/Computer Science/2nd Year/1st Sem/DATA STRUCTURES/Class Record Database Project - Kyle Aquino/include/MenuComponents.h
+	<iostream>
+
+1469414695 source:/home/kyle/Dropbox/Computer Science/2nd Year/1st Sem/DATA STRUCTURES/Class Record Database Project - Kyle Aquino/main.cpp
+	<iostream>
+	<MenuComponents.h>
+	<ClassDatabase.h>
+
